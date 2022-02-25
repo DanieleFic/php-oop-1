@@ -12,9 +12,10 @@
         }
 
         public function getfilm(){
-
             return "{$this->titolo} {$this->genere} {$this->datauscita}";
         }
         
     }
 
+    
+    ?>
