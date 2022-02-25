@@ -6,9 +6,8 @@
         new Film("The Batman","Cinecomic","3 marzo 2022"),
         new Film("Joker","Cinecomic","3 ottobre 2019")
     ];
-    
-
 ?>
+
 <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -27,28 +26,3 @@
     </body>
     </html>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-?>
